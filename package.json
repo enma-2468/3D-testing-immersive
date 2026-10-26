@@ -1,0 +1,21 @@
+{
+  "name": "residence-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive, photoreal 3D walkthrough of a 30'x51' two-storey modern residence.",
+  "scripts": {
+    "assets": "node scripts/fetch-assets.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "meshoptimizer": "^0.22.0",
+    "three": "0.170.0",
+    "three-mesh-bvh": "^0.8.3"
+  },
+  "devDependencies": {
+    "vite": "5.4.11"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Residence 30×51 · 3D Walkthrough",
+  "short_name": "Residence 3D",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#101214",
+  "theme_color": "#101214",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
